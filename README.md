@@ -1,3 +1,5 @@
+![Expense Tracker Banner](banner.png)
+
 # 💸 Expense Tracker (Python CLI Application)
 
 This is a simple command-line based Expense Tracker built using Python. It allows users to add, view, search, delete, and update their daily expenses. The expenses are stored in a text file so they remain saved even after the program is closed.
